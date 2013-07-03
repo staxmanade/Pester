@@ -15,7 +15,7 @@ Pester tests can execute any command or script that is accesible to a pester tes
 
 3. From a powershel prompt, run the install script
 
-  `.\install.ps1`  <-- this addes some code to your `$PROFILE` that loads the Pester module.
+  `.\install.ps1`  <-- this adds some code to your `$PROFILE` that loads the Pester module.
 
 
 A Pester Test
